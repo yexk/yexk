@@ -1,4 +1,11 @@
-### Hi there 👋
+### 
+
+我啥也不会，啥也不会，啥也不会！
+
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+
 
 <!--
 **yexk/yexk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
